@@ -44,7 +44,7 @@ Silahkan daftarkan aplikasi ke UPT TIK Universitas Siliwangi untuk mendapatkan `
 
 ## Authors
 
-- [@dedegunawan](https://www.github.com/dedegunawan)
+- [Dede Gunawan](https://dede-gunawan.web.id/) - [@dedegunawan](https://www.github.com/dedegunawan)
 
 
 ![Logo](logo.png)
