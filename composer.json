@@ -1,0 +1,12 @@
+{
+    "name": "dedegunawan/sso-simak-unsil-laravel",
+    "authors": [
+        {
+            "name": "Dede Gunawan",
+            "email": "gunawan@dede.web.id"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.3"
+    }
+}
