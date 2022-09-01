@@ -6,6 +6,11 @@
             "email": "gunawan@dede.web.id"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "DedeGunawan\\SsoSimakUnsilLaravel\\": "src/"
+        }
+    },
     "require": {
         "firebase/php-jwt": "^6.3"
     }
