@@ -47,5 +47,5 @@ Silahkan daftarkan aplikasi ke UPT TIK Universitas Siliwangi untuk mendapatkan `
 - [@dedegunawan](https://www.github.com/dedegunawan)
 
 
-![Logo](https://simak.unsil.ac.id/files/image/logo.png)
+![Logo](logo.png)
 
